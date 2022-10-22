@@ -1,2 +1,2 @@
 # parcel-template
-A boilerplate for a three.js app.
+A template for parcel bundler and a boilerplate for a three.js app.
